@@ -12,7 +12,7 @@
 //    // https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
 //    // https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
 //
-//    private String API_KEY = "b6097eae87f649f84fadb04a799c16dc";
+//    private String API_KEY = "";
 //
 //    public Weather getCurrentWeather(String city) {
 //        RestTemplate restTemplate = new RestTemplate();
